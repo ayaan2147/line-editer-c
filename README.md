@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- mohammed ayaan khalid shaikh
-- om sharma
+- MOHAMMED AYAAN KHALID SHAIKH
+- OM SHARMA
 
 ## Description
 
